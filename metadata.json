@@ -1,0 +1,7 @@
+{
+  "name": "Magic Eraser AI",
+  "description": "A professional-grade image editing tool powered by Gemini that allows you to effortlessly remove backgrounds, objects, or text from your photos using natural language instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
